@@ -50,3 +50,5 @@ class HomePage():
 
     def click_footerbookappointment(self):
         self.driver.find_element_by_partial_link_text(self.footer_bookappointment_partiallinktext).click()
+
+# code committed to github
